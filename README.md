@@ -36,7 +36,7 @@ that the following is implemented:
 
 - **`ColorSelector` has a way to set some 'selected color' in `Matrix` when a user selects a color**
 - **`Cell` has a way to know what the current selected color is when it is clicked**
-- In other words, we need our sibling components to have the same data available to them at the same moment in time
+- **In other words, we need our sibling components to have the same data available to them at the same moment in time**
 -
 
 Using callbacks, we can do both of these things pretty easily!
